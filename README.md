@@ -6,8 +6,8 @@ Progres per minggu
 ------------------------------------------------
 
 Minggu pertama
-1. Definisi komponen pendukung pembuatan web
-2. Kelebihan dan kekurangan dari komponen
+1. Definisi komponen pendukung pembuatan aplikasi webnya
+2. Kelebihan dan kekurangan dari poin 1
 3. Penjelasan tentang login
 
 Minggu kedua
