@@ -15,3 +15,9 @@ Minggu kedua
 2. penjelasan tentang menu workbook
 3. penjelasan tentang menu daftar pekerja
 4. penjelasan tentang menu assessment
+
+Minggu Ketiga
+1. penjelasan tentang menu ruangkerja
+2. penjelasan tentang menu raport
+3. penjelasan tentang menu workbook (user)
+4. penjelasan tentang menu raport (user)
