@@ -11,13 +11,13 @@ Minggu pertama
 3. Penjelasan tentang login
 
 Minggu kedua
-1. penjelasan tentang scrum
-2. penjelasan tentang menu workbook
-3. penjelasan tentang menu daftar pekerja
-4. penjelasan tentang menu assessment
+4. penjelasan tentang scrum
+5. penjelasan tentang menu workbook
+6. penjelasan tentang menu daftar pekerja
+7. penjelasan tentang menu assessment
 
 Minggu Ketiga
-1. penjelasan tentang menu ruangkerja
-2. penjelasan tentang menu raport
-3. penjelasan tentang menu workbook (user)
-4. penjelasan tentang menu raport (user)
+8. penjelasan tentang menu ruangkerja
+9. penjelasan tentang menu raport
+10. penjelasan tentang menu workbook (user)
+11. penjelasan tentang menu raport (user)
