@@ -22,5 +22,12 @@ Minggu Ketiga
 
 8. penjelasan tentang menu ruangkerja
 9. penjelasan tentang menu raport
+
+Minggu Keempat
+
 10. penjelasan tentang menu workbook (user)
 11. penjelasan tentang menu raport (user)
+
+To Be Worked
+
+12. Penjelasan tentang penggunaan ChartJS
