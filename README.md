@@ -28,6 +28,6 @@ Minggu Keempat
 10. penjelasan tentang menu workbook (user)
 11. penjelasan tentang menu raport (user)
 
-To Be Worked
+(Will be Done Soon)
 
 12. Penjelasan tentang penggunaan ChartJS
